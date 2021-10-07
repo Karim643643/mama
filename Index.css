@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0; padding: 0;
+  
+}
+body{
+  background:#ddd;
+  font-family:'Oswald', sans-serif;
+}
+.socialbar{
+  background: #ddd;
+  width: 750px;
+  height: 30px;
+  text-align: center;
+  margin-top: 15px;
+  
+  
+  
+  
+}
+.socialone{
+text-decoration: none;
+}
+.socialtwo{
+  text-decoration: none;
+  
+  
+}
+.nam{
+  font-size: 20px;
+  font-family: arial black;
+ width:200px;
+ align: center;
+  
+}
+.topbar{
+  width:750px;
+  height: 40px;
+  background:orange;
+  
+}
+.menu{
+  list-style:none;
+}
+.menuone{
+  width:120px;
+  float: left;
+  margin-left: 30px; margin-top: 10px;
+  
+  }
+.menutwo{
+  width:120px;
+  float:left;
+  margin-top: 10px;
+  border-left: 1px solid #ddd;
+  
+ }  
+ .menuthree{
+   width: 120;
+   float: left;
+   margin-top: 10px;
+   
+ }
+ .menufour{
+width: 110;
+   float: left;
+   margin-top: 10px;
+ }
+ .menufive{
+   width: 140;
+   float: left;
+   margin-top: 10px;
+   margin-left: 20px;
+   
+ }
+ .intro{
+   background: #d4fa0d;
+   width: 400px;
+   text-align: center;
+   margin-left:200px ;
+   font-size: 40px;
+   border: 1px solid blue;
+   
+   
+   
+ }
